@@ -1,0 +1,14 @@
+string
+char
+object
+bool
+byte
+decimal
+double
+int 
+float
+
+
+DateTime dataAtual - DateTime.Now;
+console.WriteLine(dataAtual);
+console.WriteLine(dataAtual.ToString("dd/MM/yyyy));

@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\bin\Debug\net9.0\Repeticao.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\bin\Debug\net9.0\Repeticao.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\bin\Debug\net9.0\Repeticao.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\bin\Debug\net9.0\Repeticao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\bin\Debug\net9.0\Repeticao.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\refint\Repeticao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\Repeticao.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Repeticao\obj\Debug\net9.0\ref\Repeticao.dll

@@ -1,0 +1,5 @@
+No .NET é possível fazer a criação de muitos tipos de projeto, basta no console digitar
+
+"dotnet new console", neste caso, o console é um tipo de projeto, podendo englobar diversos outros tipos: API, MVC, ETC ...
+
+dotnet run - roda o programa em dotnet

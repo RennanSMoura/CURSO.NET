@@ -1,0 +1,5 @@
+CSPROJ - Contem informaçõe referentes a uma projeto (build,debug,versa)
+
+.sln - contem informações que carregam um agrupamento de projetos e como se relacionam entre sí.
+
+

@@ -1,0 +1,5 @@
+Conceitos de conversão de tipo de dados:
+
+É utilizado para a conversão de dados o comando Convert.To...() ou o comando int.Parse().
+
+como melhor prática pode-se usar o convert, pois ao tentar converter um dado nulo ele será transformado e m0, ao tentar converter um dado nulo com o parse o programa ira ser encerrado. Porém pode-se usar o comando TryParse(), no qual ele nao encerrará o programa.

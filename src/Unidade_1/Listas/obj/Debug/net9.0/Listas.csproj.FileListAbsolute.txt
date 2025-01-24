@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\bin\Debug\net9.0\Listas.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\bin\Debug\net9.0\Listas.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\bin\Debug\net9.0\Listas.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\bin\Debug\net9.0\Listas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\bin\Debug\net9.0\Listas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\refint\Listas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\Listas.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_1\Listas\obj\Debug\net9.0\ref\Listas.dll

@@ -1,0 +1,5 @@
+csproj - arquivo de projeto do C#, são os metadados do projeto (XML)
+
+pasta obj - referente a arquivos de debug, onde não é necessário mexer na mesma
+
+bin - pasta de binários, pasta na qual compila o código para baixo nível
