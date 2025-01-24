@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\bin\Debug\net9.0\MetodoExtensao.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\bin\Debug\net9.0\MetodoExtensao.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\bin\Debug\net9.0\MetodoExtensao.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\bin\Debug\net9.0\MetodoExtensao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\bin\Debug\net9.0\MetodoExtensao.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\refint\MetodoExtensao.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\MetodoExtensao.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\MetodoExtensao\obj\Debug\net9.0\ref\MetodoExtensao.dll

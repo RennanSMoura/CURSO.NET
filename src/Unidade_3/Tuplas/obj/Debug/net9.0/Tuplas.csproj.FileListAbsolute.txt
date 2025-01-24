@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\bin\Debug\net9.0\Tuplas.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\bin\Debug\net9.0\Tuplas.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\bin\Debug\net9.0\Tuplas.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\bin\Debug\net9.0\Tuplas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\bin\Debug\net9.0\Tuplas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\refint\Tuplas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\Tuplas.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\Tuplas\obj\Debug\net9.0\ref\Tuplas.dll

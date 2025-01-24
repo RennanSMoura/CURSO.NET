@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\bin\Debug\net9.0\Dinamico.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\bin\Debug\net9.0\Dinamico.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\bin\Debug\net9.0\Dinamico.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\bin\Debug\net9.0\Dinamico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\bin\Debug\net9.0\Dinamico.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\refint\Dinamico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\Dinamico.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Dinamico\obj\Debug\net9.0\ref\Dinamico.dll

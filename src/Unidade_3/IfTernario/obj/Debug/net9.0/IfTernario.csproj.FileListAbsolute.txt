@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\bin\Debug\net9.0\IfTernario.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\bin\Debug\net9.0\IfTernario.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\bin\Debug\net9.0\IfTernario.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\bin\Debug\net9.0\IfTernario.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\bin\Debug\net9.0\IfTernario.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\refint\IfTernario.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\IfTernario.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\IfTernario\obj\Debug\net9.0\ref\IfTernario.dll

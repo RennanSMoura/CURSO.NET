@@ -1,0 +1,5 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Anonimo\obj\Debug\net9.0\Anonimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Anonimo\obj\Debug\net9.0\Anonimo.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Anonimo\obj\Debug\net9.0\Anonimo.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Anonimo\obj\Debug\net9.0\Anonimo.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\Anonimo\obj\Debug\net9.0\Anonimo.sourcelink.json

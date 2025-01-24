@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\bin\Debug\net9.0\Queue.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\bin\Debug\net9.0\Queue.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\bin\Debug\net9.0\Queue.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\bin\Debug\net9.0\Queue.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\bin\Debug\net9.0\Queue.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\refint\Queue.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\Queue.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_2\Queue\obj\Debug\net9.0\ref\Queue.dll

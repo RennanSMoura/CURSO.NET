@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\bin\Debug\net9.0\ClassesGenericas.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\bin\Debug\net9.0\ClassesGenericas.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\bin\Debug\net9.0\ClassesGenericas.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\bin\Debug\net9.0\ClassesGenericas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\bin\Debug\net9.0\ClassesGenericas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\refint\ClassesGenericas.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ClassesGenericas.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_3\TiposEspeciais\ClassesGenericas\obj\Debug\net9.0\ref\ClassesGenericas.dll

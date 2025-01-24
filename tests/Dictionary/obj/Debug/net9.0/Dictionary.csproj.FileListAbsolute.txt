@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\bin\Debug\net9.0\Dictionary.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\bin\Debug\net9.0\Dictionary.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\tests\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll
