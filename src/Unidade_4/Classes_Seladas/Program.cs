@@ -1,0 +1,1 @@
+﻿// Classes Seladas - São classes que nao podem ser mais herdadas, seriam o fim da linha da classes, onde ela pode herdar sim métodos, mas nao pode ser herdada por mais ninguém.
