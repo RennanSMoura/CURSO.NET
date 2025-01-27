@@ -13,7 +13,7 @@ namespace Polimorfismo.Models
         // Utilizando o nome "Virtual" estou definindo que este método pode ser sobrescrita
         public virtual void Apresentar()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos!");
+            Console.Write($"Olá, meu nome é {Nome} e tenho {Idade} anos!");
         }
 
     }

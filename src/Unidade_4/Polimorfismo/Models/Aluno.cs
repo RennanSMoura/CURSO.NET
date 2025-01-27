@@ -11,7 +11,9 @@ namespace Polimorfismo.Models
 
         public override void Apresentar()
         {
-            Console.WriteLine($"Olá! Meu nome é {Nome}, tenho {Idade} anos e minha nota é {Nota}");
+            // Console.WriteLine($"Olá! Meu nome é {Nome}, tenho {Idade} anos e minha nota é {Nota}");
+            base.Apresentar();
+            Console.WriteLine($"Sou aluno e a minha nota foi: {Nota}");
         }
     }
 }
