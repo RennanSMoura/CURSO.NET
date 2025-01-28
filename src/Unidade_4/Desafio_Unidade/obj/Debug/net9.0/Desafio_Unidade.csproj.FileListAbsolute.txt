@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\bin\Debug\net9.0\Desafio_Unidade.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\bin\Debug\net9.0\Desafio_Unidade.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\bin\Debug\net9.0\Desafio_Unidade.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\bin\Debug\net9.0\Desafio_Unidade.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\bin\Debug\net9.0\Desafio_Unidade.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\refint\Desafio_Unidade.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\Desafio_Unidade.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_4\Desafio_Unidade\obj\Debug\net9.0\ref\Desafio_Unidade.dll
