@@ -1,15 +1,15 @@
 ﻿// O conceito de polimorfismo é de sobrescrever métodos de classes herdadas, fazendo com que seja possível reutilizar um determinado método, mas sobrescrevendo a classe anterior
 using Construtor_Heranca.Models;
 
-Aluno a1 = new Aluno();
+Aluno aluno = new Aluno();
 
-a1.Nome = "Rennan";
-a1.Idade = 20;
-a1.Nota = 10;
-a1.Apresentar();
+aluno.Nome = "Rennan";
+aluno.Idade = 20;
+aluno.Nota = 10;
+aluno.Apresentar();
 
-Professor p1 = new Professor();
-p1.Nome = "Leonardo";
-p1.Idade = 30;
-p1.Salario = 1000;
-p1.Apresentar();
+Professor professor = new Professor();
+professor.Nome = "Leonardo";
+professor.Idade = 30;
+professor.Salario = 1000;
+professor.Apresentar();

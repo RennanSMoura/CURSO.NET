@@ -45,13 +45,13 @@ class Program
         listaVendas.Add(v2);
 
         // Serializa apenas um objeto (v1)
-        string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+        string arquivoSerializad = JsonConvert.SerializeObject(v1, Formatting.Indented);
 
         // Serializa a lista de objetos
         string listaSerializada = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
 
-        // Exibe o objeto serializado no console
-        Console.WriteLine(serializado);
+        // Exibe o objeto arquivoSerializad no console
+        Console.WriteLine(arquivoSerializad);
         // A saída esperada será um string no formato JSON:
         // {
         //     "Id": 1,
@@ -69,7 +69,7 @@ class Program
         }
 
         // Escreve o arquivo JSON com o objeto v1
-        File.WriteAllText(Path.Combine(directoryPath, "venda1.json"), serializado);
+        File.WriteAllText(Path.Combine(directoryPath, "venda1.json"), arquivoSerializad);
 
         // Escreve o arquivo JSON com a lista de vendas
         File.WriteAllText(Path.Combine(directoryPath, "vendas.json"), listaSerializada);

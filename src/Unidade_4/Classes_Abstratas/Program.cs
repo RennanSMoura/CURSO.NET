@@ -1,6 +1,6 @@
 ﻿using Classes_Abstratas.Models;
 
-Corrente c = new Corrente();
+Corrente contaCorrente = new Corrente();
 
-c.Creditar(500);
-c.ExibirSaldo();
+contaCorrente.Creditar(500);
+contaCorrente.ExibirSaldo();
