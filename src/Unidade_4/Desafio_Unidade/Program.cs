@@ -1,7 +1,7 @@
 ﻿using Desafio_Unidade.Models;
 
 Console.WriteLine("Smartphone Nokia");
-Smartphone nokia = new Nokia(numero: "123456", modelo: "Modelo 1", imei: "111111111", memoria: 64);
+Smartphone nokia = new Nokia("123456", "Modelo 1", "111111111", 64);
 nokia.ReceberLigacao();
 nokia.InstalarAplicativo("Instagram");
 nokia.DemonstratConfiguracoesSmartphone();

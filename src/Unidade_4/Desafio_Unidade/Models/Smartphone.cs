@@ -14,6 +14,7 @@ namespace Desafio_Unidade.Models
             Imei = imei;
             Memoria = memoria;
         }
+
         public string Numero { get; set; }
         private string Modelo;
         private string Imei;
@@ -23,6 +24,7 @@ namespace Desafio_Unidade.Models
         {
             Console.WriteLine("Ligando...");
         }
+        
         public void ReceberLigacao()
         {
             Console.WriteLine("Recebendo ligação...");
