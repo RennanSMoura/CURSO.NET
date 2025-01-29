@@ -1,0 +1,9 @@
+Padrão de tasks na tarefa
+Alteração no endpoint/ serviço x
+
+Criar testes unitários
+Realizar testes integrados
+Abrir PR
+Abrir GMUD
+Criar evidência da estória
+Acompanhar publicação
