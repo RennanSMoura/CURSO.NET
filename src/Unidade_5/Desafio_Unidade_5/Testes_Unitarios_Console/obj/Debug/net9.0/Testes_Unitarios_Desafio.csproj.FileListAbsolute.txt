@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\bin\Debug\net9.0\Testes_Unitarios_Desafio.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\bin\Debug\net9.0\Testes_Unitarios_Desafio.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\bin\Debug\net9.0\Testes_Unitarios_Desafio.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\bin\Debug\net9.0\Testes_Unitarios_Desafio.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\bin\Debug\net9.0\Testes_Unitarios_Desafio.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\refint\Testes_Unitarios_Desafio.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\Testes_Unitarios_Desafio.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Desafio_Unidade_5\Testes_Unitarios_Console\obj\Debug\net9.0\ref\Testes_Unitarios_Desafio.dll

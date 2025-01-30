@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Testes_Unitarios_Desafio/1.0.0": {
+        "runtime": {
+          "Testes_Unitarios_Desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testes_Unitarios_Desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

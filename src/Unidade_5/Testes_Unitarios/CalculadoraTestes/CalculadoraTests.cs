@@ -8,6 +8,7 @@ public class CalculadoraTests
     {
         _calculadora = new CalculadoraImplementacao();
     }
+
     [Fact]
     public void DeveSomar5Com10ERetornar15()
     {
@@ -20,8 +21,8 @@ public class CalculadoraTests
 
         // ASSERT - VALIDAR SE O CENÁRIO FUNCIONOU CORRETAMENTE
         Assert.Equal(15, resultado);
-    
     }
+
     [Fact]
     public void DeveSomar10Com10ERetornar20()
     {
@@ -63,9 +64,7 @@ public class CalculadoraTests
         // {
         //     Assert.True(_calculadora.EhPar(item));
         // }
-
         Assert.All(numeros, numero => Assert.True(_calculadora.EhPar(numero)));
-
     }
 }
 
