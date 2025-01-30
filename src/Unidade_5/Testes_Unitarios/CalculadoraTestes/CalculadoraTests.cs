@@ -46,7 +46,7 @@ public class CalculadoraTests
         // Act
         bool resultado = _calculadora.EhPar(numero);
 
-        // Assert
+        // Assert'
         Assert.True(resultado);
     }
 

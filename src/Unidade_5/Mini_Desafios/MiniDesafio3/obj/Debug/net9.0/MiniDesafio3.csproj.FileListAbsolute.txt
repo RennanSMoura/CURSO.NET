@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\bin\Debug\net9.0\MiniDesafio3.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\bin\Debug\net9.0\MiniDesafio3.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\bin\Debug\net9.0\MiniDesafio3.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\bin\Debug\net9.0\MiniDesafio3.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\bin\Debug\net9.0\MiniDesafio3.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\refint\MiniDesafio3.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\MiniDesafio3.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_5\Mini_Desafios\MiniDesafio3\obj\Debug\net9.0\ref\MiniDesafio3.dll
