@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testes_Unitarios_Desafio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8997e7ad7566a75dd51365603f4334b048beb124")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e0a2339f8cacc61647b3af98a750cb41154d49e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testes_Unitarios_Desafio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testes_Unitarios_Desafio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

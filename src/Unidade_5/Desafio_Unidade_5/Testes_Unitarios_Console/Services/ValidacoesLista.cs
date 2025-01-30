@@ -11,22 +11,22 @@ namespace Testes_Unitarios_Console.Services
         public List<int> RemoverNumerosNegativos(List<int> lista)
         {
             List<int> listaSemNegativos = new List<int>();
-            foreach(var item in lista)
+            foreach (var item in lista)
             {
-                if(item >= 0)
+                if (item >= 0)
                 {
                     listaSemNegativos.Add(item);
                 }
             }
-                return listaSemNegativos;
+            return listaSemNegativos;
         }
 
         public bool ListaContemDeterminadoNumero(List<int> lista, int numeroEscolhido)
         {
             bool numeroEstaNaLista = false;
-            foreach(var item in lista)
+            foreach (var item in lista)
             {
-                if(item == numeroEscolhido)
+                if (item == numeroEscolhido)
                 {
                     numeroEstaNaLista = true;
                 }
@@ -37,9 +37,9 @@ namespace Testes_Unitarios_Console.Services
         public List<int> MultiplicarNumerosLista(List<int> lista, int multiplicador)
         {
             List<int> listaComNumerosMultiplicados = new List<int>();
-            foreach(var item in lista)
+            foreach (var item in lista)
             {
-                listaComNumerosMultiplicados.Add(item*multiplicador);
+                listaComNumerosMultiplicados.Add(item * multiplicador);
             }
             return listaComNumerosMultiplicados;
         }
@@ -48,9 +48,9 @@ namespace Testes_Unitarios_Console.Services
         {
             int maiorNumero = int.MinValue;
 
-            foreach(var item in lista)
+            foreach (var item in lista)
             {
-                if(item > maiorNumero)
+                if (item > maiorNumero)
                 {
                     maiorNumero = item;
                 }
@@ -62,14 +62,28 @@ namespace Testes_Unitarios_Console.Services
         {
             int menorNumero = int.MaxValue;
 
-            foreach(var item in lista)
+            foreach (var item in lista)
             {
-                if(item < menorNumero)
+                if (item < menorNumero)
                 {
                     menorNumero = item;
                 }
             }
             return menorNumero;
+        }
+
+        public List<int> RetornarListaSomenteNumerosNegativos(List<int> lista)
+        {
+            var listaNumerosNegativos = new List<int>();
+
+            foreach (var numero in lista)
+            {
+                if (numero < 0)
+                {
+                    listaNumerosNegativos.Add(numero);
+                }
+            }
+            return listaNumerosNegativos;
         }
     }
 }

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Testes_Unitarios_Console.Services;
 using Xunit;
@@ -95,6 +96,20 @@ namespace Testes_Unitarios_Testes
 
             // Assert
             Assert.Equal(resultado,resultadoEsperado);
+        }
+
+        [Fact]
+        public void DeveRetornarUmaListaSomenteNumerosNegativos()
+        {
+            // Arrange
+            var lista = new List<int> {2,4,5,-10,-100,3,-1};
+            var resultadoEsperado = new List<int> {-10,-100,-1};
+            
+            // Act
+            var resultado = _validacaoLista.RetornarListaSomenteNumerosNegativos(lista);
+
+            // Assert
+            Assert.Equal(resultado, resultadoEsperado);
         }
     }
 }
