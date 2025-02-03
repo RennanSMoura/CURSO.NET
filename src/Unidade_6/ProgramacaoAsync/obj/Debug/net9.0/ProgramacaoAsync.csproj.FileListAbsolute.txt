@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\bin\Debug\net9.0\ProgramacaoAsync.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\bin\Debug\net9.0\ProgramacaoAsync.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\bin\Debug\net9.0\ProgramacaoAsync.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\bin\Debug\net9.0\ProgramacaoAsync.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\bin\Debug\net9.0\ProgramacaoAsync.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\refint\ProgramacaoAsync.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ProgramacaoAsync.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsync\obj\Debug\net9.0\ref\ProgramacaoAsync.dll

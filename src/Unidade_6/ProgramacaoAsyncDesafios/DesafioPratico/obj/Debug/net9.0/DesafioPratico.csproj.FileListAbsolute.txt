@@ -1,0 +1,15 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\bin\Debug\net9.0\DesafioPratico.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\bin\Debug\net9.0\DesafioPratico.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\bin\Debug\net9.0\DesafioPratico.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\bin\Debug\net9.0\DesafioPratico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\bin\Debug\net9.0\DesafioPratico.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\refint\DesafioPratico.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\DesafioPratico.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_6\ProgramacaoAsyncDesafios\DesafioPratico\obj\Debug\net9.0\ref\DesafioPratico.dll
