@@ -1,0 +1,28 @@
+Enunciado do Exercício:
+
+Você está desenvolvendo um sistema de gestão de pedidos de um e-commerce. Para otimizar o processo de processamento de pedidos, você precisa usar técnicas assíncronas para realizar diversas verificações de forma simultânea. Implemente um programa em C# que simula o seguinte processo:
+
+Verificação de Estoque: Verifique se o produto está disponível no estoque. Isso pode levar algum tempo, pois envolve consultar um banco de dados ou outro sistema.
+
+Verificação de Pagamento: Após confirmar que o produto está disponível, valide o pagamento do cliente. Este processo também pode demorar devido à interação com um sistema de pagamento.
+
+Preparação do Pedido: Se o pagamento for aprovado, inicie a preparação do pedido (como embalar o produto). Esse processo pode ser feito enquanto o sistema ainda aguarda a resposta de uma das outras verificações.
+
+Requisitos:
+
+Cada operação (verificação de estoque, verificação de pagamento e preparação do pedido) deve ser implementada como um método assíncrono que simula um atraso (use Task.Delay para isso). - OK
+
+Todas as operações devem ser feitas de forma assíncrona, ou seja, elas devem ocorrer em paralelo, para otimizar o tempo de execução. - OK
+-- O método preparar pedido deve ser executado somente se os outros dois anteriores forem verdadeiros. - OK
+
+O programa deve aguardar a conclusão de todas as operações antes de verificar se o pedido pode ser concluído com sucesso. - OK
+
+Se o produto não estiver disponível no estoque ou o pagamento for rejeitado, o sistema deve informar que o pedido não pode ser processado. - OK
+
+Se todas as etapas forem concluídas com sucesso, o sistema deve informar que o pedido foi processado com sucesso e que o produto será enviado. - OK
+
+Dica: Utilize Task.Run() ou Task.WhenAll() para iniciar várias tarefas assíncronas e await para aguardar sua conclusão.
+
+-- DESAFIO EXTRA
+
+Verificação de endereço de entrega: Em paralelo a checagem de estoque, será necessário verificar se o endereço informado está válido. Isso pode levar algum tempo pois é necessário a consulta de sistema externo. Somente após a checagem do endereço, poderá ser verificado o pagamento.
