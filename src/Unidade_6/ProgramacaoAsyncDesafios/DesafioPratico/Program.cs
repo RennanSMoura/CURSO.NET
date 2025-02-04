@@ -27,7 +27,7 @@ class Program
     private static async Task<bool> CheckClientsPaymentAsync(double productValue, double clientBalance)
     {
         Console.WriteLine("Verificando se está tudo certo com o pagamento...");
-        await Task.Delay(5000);
+        await Task.Delay(3000);
 
         if (clientBalance >= productValue)
         {
@@ -43,7 +43,7 @@ class Program
     {
         Console.WriteLine("Iniciando a preparação do pedido...");
 
-        await Task.Delay(4000);
+        await Task.Delay(3000);
 
         Console.WriteLine("O pedido está pronto para o envio");
     }

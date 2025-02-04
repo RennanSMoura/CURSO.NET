@@ -12,13 +12,13 @@ Requisitos:
 
 Cada operação (verificação de estoque, verificação de pagamento e preparação do pedido) deve ser implementada como um método assíncrono que simula um atraso (use Task.Delay para isso). - OK
 
-Todas as operações devem ser feitas de forma assíncrona, ou seja, elas devem ocorrer em paralelo, para otimizar o tempo de execução.
--- O método preparar pedido deve ser executado somente se os outros dois anteriores forem verdadeiros.
+Todas as operações devem ser feitas de forma assíncrona, ou seja, elas devem ocorrer em paralelo, para otimizar o tempo de execução. - OK
+-- O método preparar pedido deve ser executado somente se os outros dois anteriores forem verdadeiros. - OK
 
-O programa deve aguardar a conclusão de todas as operações antes de verificar se o pedido pode ser concluído com sucesso.
+O programa deve aguardar a conclusão de todas as operações antes de verificar se o pedido pode ser concluído com sucesso. - OK
 
 Se o produto não estiver disponível no estoque ou o pagamento for rejeitado, o sistema deve informar que o pedido não pode ser processado. - OK
 
-Se todas as etapas forem concluídas com sucesso, o sistema deve informar que o pedido foi processado com sucesso e que o produto será enviado.
+Se todas as etapas forem concluídas com sucesso, o sistema deve informar que o pedido foi processado com sucesso e que o produto será enviado. - OK
 
 Dica: Utilize Task.Run() ou Task.WhenAll() para iniciar várias tarefas assíncronas e await para aguardar sua conclusão.
