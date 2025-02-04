@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net;
+using System.Net.Sockets;
 using System.Threading.Tasks;
 
 class Program
@@ -22,6 +23,25 @@ class Program
         }
 
         return isAvailable;
+    }
+
+    public static async Task<bool> CheckIsValidAdress(string address)
+    {
+        Console.WriteLine("Verificando o endereço de entrega");
+
+        string keyWord = "Rua";
+        
+        await Task.Delay(2000);
+        
+        bool isValidAddress = address.Contains(keyWord); 
+
+        if(isValidAddress)
+        {
+            Console.WriteLine("O endereço de entrega é válido");
+            return isValidAddress;
+        }
+        Console.WriteLine("O endereço de entrega é inválido");
+        return isValidAddress;
     }
 
     private static async Task<bool> CheckClientsPaymentAsync(double productValue, double clientBalance)
@@ -51,22 +71,17 @@ class Program
     static async Task Main(string[] args)
     {
         string product = "Galaxy S25";
+        bool stockIsOk = false;
+        bool paymentIsOk = false;
+        bool addressIsOk = false;
 
-        Task<bool> stockTask = Task.Run(() => CheckProductStockAsync(product));
-        bool stockIsOk = await stockTask;
+        stockIsOk = await CheckProductStockAsync(product);
+        addressIsOk = await CheckIsValidAdress("Rua Dotz");
 
-        //TODO: PESQUISAR O USO DO TASK.WHENALL() E COMO POSSO APLICAR AQUI
-        await Task.WhenAll(stockTask);
-        Task<bool> paymentTask = Task.Run(() => CheckClientsPaymentAsync(7000, 10000));
-
-        if (stockIsOk)
+        if (stockIsOk && addressIsOk)
         {
-            await Task.WhenAll(paymentTask);
+            paymentIsOk = await CheckClientsPaymentAsync(7000, 10000);
         }
-
-        bool paymentIsOk = await paymentTask;
-
-        await Task.WhenAll(stockTask, paymentTask);
 
         if (!stockIsOk || !paymentIsOk)
         {

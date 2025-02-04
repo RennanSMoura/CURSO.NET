@@ -22,3 +22,7 @@ Se o produto não estiver disponível no estoque ou o pagamento for rejeitado, o
 Se todas as etapas forem concluídas com sucesso, o sistema deve informar que o pedido foi processado com sucesso e que o produto será enviado. - OK
 
 Dica: Utilize Task.Run() ou Task.WhenAll() para iniciar várias tarefas assíncronas e await para aguardar sua conclusão.
+
+-- DESAFIO EXTRA
+
+Verificação de endereço de entrega: Em paralelo a checagem de estoque, será necessário verificar se o endereço informado está válido. Isso pode levar algum tempo pois é necessário a consulta de sistema externo. Somente após a checagem do endereço, poderá ser verificado o pagamento.
