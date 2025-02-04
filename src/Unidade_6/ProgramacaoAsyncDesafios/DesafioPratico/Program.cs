@@ -26,7 +26,6 @@ class Program
 
     private static async Task<bool> CheckClientsPaymentAsync(double productValue, double clientBalance)
     {
-
         Console.WriteLine("Verificando se está tudo certo com o pagamento...");
         await Task.Delay(5000);
 
@@ -54,21 +53,28 @@ class Program
         string product = "Galaxy S25";
 
         Task<bool> stockTask = CheckProductStockAsync(product);
-        Task<bool> paymentTask = CheckClientsPaymentAsync(7000, 10000);
-        Task orderPreparationTask = OrderPreparationAsync();
-        
-        //TODO: PESQUISAR O USO DO TASK.WHENALL() E COMO POSSO APLICAR AQUI
         bool stockIsOk = await stockTask;
-        bool paymentIsOk = await paymentTask;
-        await orderPreparationTask;
 
-        if(!stockIsOk || !paymentIsOk)
+        //TODO: PESQUISAR O USO DO TASK.WHENALL() E COMO POSSO APLICAR AQUI
+        await Task.WhenAll(stockTask);
+        Task<bool> paymentTask = CheckClientsPaymentAsync(7000, 10000);
+
+        if (stockIsOk)
+        {
+            await Task.WhenAll(paymentTask);
+        }
+
+        bool paymentIsOk = await paymentTask;
+
+        await Task.WhenAll(stockTask, paymentTask);
+
+        if (!stockIsOk || !paymentIsOk)
         {
             Console.WriteLine("O pedido não pode ser processado");
         }
         else
         {
-            Console.WriteLine($"Tudo certo com o seu pedido, seu produto {product} será enviado!");
+            await OrderPreparationAsync();
         }
     }
 }
