@@ -52,12 +52,12 @@ class Program
     {
         string product = "Galaxy S25";
 
-        Task<bool> stockTask = CheckProductStockAsync(product);
+        Task<bool> stockTask = Task.Run(() => CheckProductStockAsync(product));
         bool stockIsOk = await stockTask;
 
         //TODO: PESQUISAR O USO DO TASK.WHENALL() E COMO POSSO APLICAR AQUI
         await Task.WhenAll(stockTask);
-        Task<bool> paymentTask = CheckClientsPaymentAsync(7000, 10000);
+        Task<bool> paymentTask = Task.Run(() => CheckClientsPaymentAsync(7000, 10000));
 
         if (stockIsOk)
         {
