@@ -25,7 +25,7 @@ class Program
         return isAvailable;
     }
 
-    public static async Task<bool> CheckIsValidAdress(string address)
+    public static async Task<bool> CheckIsValidAdressAsync(string address)
     {
         Console.WriteLine("Verificando o endereço de entrega");
 
@@ -76,7 +76,7 @@ class Program
         bool addressIsOk = false;
 
         stockIsOk = await CheckProductStockAsync(product);
-        addressIsOk = await CheckIsValidAdress("Rua Dotz");
+        addressIsOk = await CheckIsValidAdressAsync("Rua Dotz");
 
         if (stockIsOk && addressIsOk)
         {
