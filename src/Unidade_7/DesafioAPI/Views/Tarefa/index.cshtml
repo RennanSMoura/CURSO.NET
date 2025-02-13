@@ -1,0 +1,84 @@
+@model IEnumerable<Desafio_API.Models.Tarefa>;
+
+@{
+    ViewData["Title"] = "Visão Geral de Tarefas";
+}
+<h1>Visão geral de tarefas</h1>
+
+<div style="display: flex;">
+<form method="get" asp-action="FiltrarTarefaStatus">
+    <select name="status" id="status">
+        <option value="">Filtrar tarefa por status</option>
+        @foreach (var item in Model)
+        {
+            <option value="@item.StatusTarefa">@item.StatusTarefa</option>
+        }
+    </select>
+    <button type="submit">Filtrar</button>
+</form>
+</div>
+<div style="display: flex;">
+<form method="get" asp-action="FiltrarTarefaTitulo">
+    <select name="titulo" id="titulo">
+        <option value="">Filtrar tarefa por titulo</option>
+        @foreach (var item in Model)
+        {
+            <option value="@item.Titulo">@item.Titulo</option>
+        }
+    </select>
+    <button type="submit">Filtrar</button>
+</form>
+</div>
+
+<p>
+    <a asp-action="Criar">Criar uma nova tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatusTarefa)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Titulo)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Data)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.StatusTarefa)
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

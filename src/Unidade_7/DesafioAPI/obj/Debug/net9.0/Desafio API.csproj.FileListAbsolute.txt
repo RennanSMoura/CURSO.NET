@@ -1,0 +1,233 @@
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.staticwebassets.runtime.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.staticwebassets.endpoints.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.exe
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.deps.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.runtimeconfig.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Desafio API.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.AssemblyInfoInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.AssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.csproj.CoreCompileInputs.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.RazorAssemblyInfo.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.RazorAssemblyInfo.cs
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.sourcelink.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\scopedcss\bundle\Desafio API.styles.css
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\scopedcss\projectbundle\Desafio API.bundle.scp.css
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\kiu27fip2n-b9sayid5wm.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\05gerpq814-61n19gt1b8.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\kxuttfx8ho-xtxxf3hu2r.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\mqxh83kr8b-bqjiyaj88i.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\maygb1lump-c2jlpeoesf.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\v9i2wjzm9v-erw9l3u2r3.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\sznfsw0jc6-aexeepp0ev.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\m8mh2lvv85-d7shbmvgxk.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\k0hysemwb5-ausgxo2sd3.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\68qrnfeku9-k8d9w2qqmf.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\1gnt8i8f5l-cosvhxvwiu.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\ewntv2tvu6-ub07r2b239.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\ozmiapkwlc-fvhpjtyr6v.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\mn0ggkvzso-b7pk76d08c.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\fa4p2zsjnb-fsbi9cje9m.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\d1hewx99ar-rzd6atqjts.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\28pi0rownv-ee0r1s7dh0.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\z1plakynmx-dxx9fxp4il.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\way2zv3oj5-jd9uben2k1.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\2xadh63twn-khv3u5hwcm.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\er06ekwhhw-r4e9w2rdcm.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\2w326kc67k-lcd1t2u6c8.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\7grrwel72a-c2oey78nd0.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\6d9jzxlch5-tdbxkamptv.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\pqtqppbbcm-j5mq2jizvt.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\pzf3vloqx7-06098lyss8.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\d7bh1yj1ce-nvvlpmu67g.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\5y05mb5nfl-s35ty4nyc5.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\d3ukl5hyow-pj5nd1wqec.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\xdy51kmp41-46ein0sx1k.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\sz55fnxtmn-v0zj4ognzu.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\p9uhwodenv-37tfw0ft22.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\wsre0l9tq9-hrwsygsryq.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\e0ed0epwh6-pk9g2wxc8p.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\6o6cwi6zn8-ft3s53vfgj.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\7j33va66z6-6cfz1n2cew.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\wo75p7c2tt-6pdc2jztkx.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\wfnu5x5xe4-493y06b0oq.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\0m963wyai8-iovd86k7lj.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\qiizz9hr2q-vr1egmr9el.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\hugshbsx4u-kbrnm935zg.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\e5s2ppsjy3-jj8uyg4cgr.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\79btdl4uqi-y7v9cxd14o.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\k5gv2vrl91-notf2xhcfb.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\pjzcwe1i75-h1s4sie4z3.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\kqp04b10bq-63fj8s7r0e.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\nevzywv3u9-0j3bgjxly4.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\5rg8f1q8zn-47otxtyo56.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\i7lcgz6xxp-4v8eqarkd7.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\9vtph5tyxi-356vix0kms.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\o5udxzz45z-83jwlth58m.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\s63dnkrba5-mrlpezrjn3.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\ktiyu6bgul-lzl9nlhx6b.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\fjwl3e4udz-ag7o75518u.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\1vloojygfm-x0q3zqp4vz.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\2vvsh9ip05-0i3buxo5is.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\yrcygpwwh7-o1o13a6vjx.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\q98h31s46b-ttgo8qnofa.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\nq4nspvi8z-2z0ns9nrw6.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\eh8v371yn5-muycvpuwrr.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\r9jaoibotp-87fc7y1x7t.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\471lf97uh4-mlv21k5csn.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\mox0vw02ld-kmcv7eg27z.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\if8ryedq0q-kmcv7eg27z.gz
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets\msbuild.Desafio API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets\msbuild.Desafio API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.Desafio API.props
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Desafio API.props
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Desafio API.props
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\refint\Desafio API.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.pdb
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.genruntimeconfig.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\ref\Desafio API.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Humanizer.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio API.csproj.AssemblyReference.cache
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\Desafio .414F411F.Up2Date
+C:\Users\rennan.moura_dotz\Desktop\CURSO.NET\src\Unidade_7\DesafioAPI\obj\Debug\net9.0\compressed\qf23s1l4wa-x4iqb2kftf.gz
